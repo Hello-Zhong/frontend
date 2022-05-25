@@ -1,0 +1,70 @@
+[
+  {
+    "name": "本日",
+    "children": [
+      {
+        "name": "低风险",
+        "value": 100
+      },
+      {
+        "name": "中风险",
+        "value": 30
+      },
+      {
+        "name": "高风险",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "name": "本周",
+    "children": [
+      {
+        "name": "低风险",
+        "value": 600
+      },
+      {
+        "name": "中风险",
+        "value": 150
+      },
+      {
+        "name": "高风险",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "name": "本月",
+    "children": [
+      {
+        "name": "低风险",
+        "value": 2800
+      },
+      {
+        "name": "中风险",
+        "value": 500
+      },
+      {
+        "name": "高风险",
+        "value": 120
+      }
+    ]
+  },
+  {
+    "name": "本年",
+    "children": [
+      {
+        "name": "低风险",
+        "value": 15600
+      },
+      {
+        "name": "中风险",
+        "value": 3650
+      },
+      {
+        "name": "高风险",
+        "value": 523
+      }
+    ]
+  }
+]
